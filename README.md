@@ -3,7 +3,7 @@
 ![Eko Sutrisno GitHub stats](https://github-readme-stats.vercel.app/api?username=ekosutrisno&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekosutrisno&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ekosutrisno/github-readme-stats)
-## Language and Framewor
+## Language and Framework
 
  <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 
