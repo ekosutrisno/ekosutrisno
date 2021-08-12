@@ -1,8 +1,8 @@
 ### Hi there, I'm Eko 👋
 
-![Eko Sutrisno GitHub stats](https://github-readme-stats.vercel.app/api?username=ekosutrisno&show_icons=true&theme=tokyonight&count_private=true)
+![Eko Sutrisno GitHub stats](https://github-readme-stats.vercel.app/api?username=ekosutrisno&show_icons=true&theme=dark&count_private=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekosutrisno&layout=compact)](https://github.com/ekosutrisno/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekosutrisno&layout=compact&theme=dark&hide_border=true)](https://github.com/ekosutrisno/github-readme-stats)
 ## Language and Framewor
 
  <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
