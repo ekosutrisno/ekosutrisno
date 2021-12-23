@@ -1,6 +1,6 @@
 ### Hi there, I'm Eko 👋
 
-![Eko Sutrisno GitHub stats](https://github-readme-stats.vercel.app/api?username=ekosutrisno&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+<!-- ![Eko Sutrisno GitHub stats](https://github-readme-stats.vercel.app/api?username=ekosutrisno&show_icons=true&theme=tokyonight&count_private=true&hide_border=true) -->
 
 ## Language and Framework
 
